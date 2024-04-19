@@ -11,4 +11,15 @@ entries:
     urls:
     - https://github.com/bingarthur/helm_repo/releases/download/myfirstchart-0.1.0/myfirstchart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-19T04:15:30.168943693Z"
+  mysecondchart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-04-19T04:36:17.677805237Z"
+    description: A Helm chart for Kubernetes
+    digest: 96e89a41f5d0e5546b8ba012bf97e355124ad7bd24932016b65d9a7082af45c7
+    name: mysecondchart
+    type: application
+    urls:
+    - https://github.com/bingarthur/helm_repo/releases/download/mysecondchart-0.1.0/mysecondchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-19T04:36:17.67781241Z"
